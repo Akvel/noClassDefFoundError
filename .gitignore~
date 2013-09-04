@@ -1,5 +1,2 @@
 test-compile-classes/target
 test-runtime-classes/target
-.settings
-bin
-.project
